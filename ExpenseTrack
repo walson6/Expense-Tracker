@@ -43,7 +43,7 @@ while(option != 0):
       expense_type = "HOUSEHOLD"
     elif (option == 3):
       print("Adding transportation")
-      expense_type = "TRANSPORATION"
+      expense_type = "TRANSPORTATION"
     elif (option == 4):
       #create a data frame and add expenses
       expense_report = pd.DataFrame()
